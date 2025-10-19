@@ -1,5 +1,6 @@
 # RoboPlayground 🤖
 
+![Screenshot](screenshot.jpeg)
 
 A 3D interactive playground for experimenting with 6-axis industrial robot kinematics and control. Built with modern web technologies to provide an intuitive interface for understanding robot movement, inverse kinematics, and industrial automation concepts.
 
